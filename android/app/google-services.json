@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202278560441",
+    "project_id": "ele-192",
+    "storage_bucket": "ele-192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202278560441:android:1122faae0bf6f2a18cf168",
+        "android_client_info": {
+          "package_name": "com.example.final66106337"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhGzM20icHI_mWhvjVkE4ehp4pOrEAPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
