@@ -3,10 +3,6 @@
 ระบบเฝ้าระวังการเลือกตั้ง (Election Violation Reporting App)  
 สร้างด้วย Flutter + SQLite (sqflite) + Firebase Firestore + TensorFlow Lite
 
-- **Firebase Project:** `ele-192`
-- **Firebase Account:** `patiphat.je@gmail.com`
-- **Firestore Collection:** `incident_reports`
-
 ---
 
 ## โครงสร้างโปรเจกต์
