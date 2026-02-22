@@ -54,7 +54,7 @@ web/
 flutter pub get
 ```
 
-### 2. Firebase (ตั้งค่าเสร็จแล้ว ✅)
+### 2. Firebase 
 
 Firebase ถูกเชื่อมต่อกับโปรเจกต์ `ele-192` เรียบร้อยแล้ว:
 - ไฟล์ `lib/firebase_options.dart` ถูกสร้างโดย FlutterFire CLI
